@@ -1,0 +1,37 @@
+body{
+    background-color: #9ef702;
+    background-image:url("./images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+h1
+{
+    text-align: center;
+    color: coral;
+    text-decoration: underline;
+}
+.search
+{
+    margin-top: 2%;
+}
+.button
+{
+    margin-left: 1%;
+}
+img
+{
+    border: 2px solid black;
+}
+.result
+{
+    margin-top: 5%;
+    display: inline-block;
+    border: 5px solid #fff;
+    border-radius: 5px;
+}
+.know_more
+{
+    margin-top: 3%;
+}
